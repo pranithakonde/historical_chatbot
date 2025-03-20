@@ -1,0 +1,12 @@
+faiss-cpu
+langchain
+langchain-community
+langchain-core
+langchain-groq
+huggingface-hub
+transformers
+sentence-transformers
+pypdf
+numpy
+pickle-mixin
+streamlit
